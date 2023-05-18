@@ -1,0 +1,16 @@
+[package]
+name = "jims-registry-readme"
+version = "0.0.1"
+edition = "2021"
+description = "A nice package description."
+repository = "https://github.com/JimLynchCodes/jims-rust-to-npm-test-registry-readme"
+readme = "README.registry.md"
+keywords = ["rust-to-npm-cli", "deploy-rust", "npm", "rust", "cli-tool"]
+categories = ["command-line-utilities"]
+license = "MIT"
+homepage = "https://github.com/JimLynchCodes/jims-rust-to-npm-test-registry-readme"
+authors = ["Jim Lynch - jim.lynch@evaluates2.com"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
